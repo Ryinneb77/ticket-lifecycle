@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/ZOUm27S.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/1t12J8p.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
@@ -9,7 +9,7 @@ We will essentialy show here how we can work in osTicket system as a profesional
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - osTicket (Help Desk Ticketing System)
 
@@ -60,5 +60,3 @@ When the issue has been resolved, the ticket can be closed. Now the ticket will 
 
 <img src="https://i.imgur.com/Jni8oxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>
-
-Thank You for reading!
